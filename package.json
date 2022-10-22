@@ -1,0 +1,24 @@
+{
+  "name": "@just0rick/litecalendar",
+  "version": "0.1.0",
+  "description": "A simple customizable calendar component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just0Rick/LiteCalendar.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Vanilla",
+    "ECMAScript6"
+  ],
+  "author": "Ricardo José Guevara Aragón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Just0Rick/LiteCalendar/issues"
+  },
+  "homepage": "https://github.com/Just0Rick/LiteCalendar#readme"
+}
